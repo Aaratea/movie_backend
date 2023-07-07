@@ -1,1 +1,3 @@
-# movie_backend
+# BertFlix (MERN-MOVIE)
+
+Backend (Server)
